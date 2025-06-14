@@ -19,6 +19,12 @@ const CPChecklist = () => {
           name: 'pile distribution',
           unit: 'Piers',
           weight: 57
+        },
+        {
+          id: 13,
+          name: 'pile distribution',
+          unit: 'Piers',
+          weight: 57
         }
       ]
     },
